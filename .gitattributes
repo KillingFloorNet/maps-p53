@@ -1,0 +1,11 @@
+*.rom filter=lfs diff=lfs merge=lfs -binary
+*.u filter=lfs diff=lfs merge=lfs -binary
+*.ucl filter=lfs diff=lfs merge=lfs -binary
+*.ini filter=lfs diff=lfs merge=lfs -binary
+*.int filter=lfs diff=lfs merge=lfs -binary
+*.t3d filter=lfs diff=lfs merge=lfs -binary
+*.utx filter=lfs diff=lfs merge=lfs -binary
+*.usx filter=lfs diff=lfs merge=lfs -binary
+*.uax filter=lfs diff=lfs merge=lfs -binary
+*.ukx filter=lfs diff=lfs merge=lfs -binary
+*.ogg filter=lfs diff=lfs merge=lfs -binary
